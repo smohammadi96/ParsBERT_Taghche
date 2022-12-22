@@ -1,5 +1,7 @@
 # ParsBERT_Taghche
 
+Sentiment Analysis
+
 ## dataset samples
 
 ![alt text](https://github.com/smohammadi96/ParsBERT_Taghche/blob/main/images/dataset_sample.png)
