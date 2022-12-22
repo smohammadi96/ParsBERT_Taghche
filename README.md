@@ -6,6 +6,7 @@
 
 ## Preprocessing
 **1. remove extra columns**
+
 **2. clean comments**
    - remove emojies
    - remove URLs
@@ -15,6 +16,7 @@
    - Normalization (Hazm)
   
  **3. classify rates**
+ 
     - rate >= 3 ==> 1
     - rate < 3 ==> 0
 
