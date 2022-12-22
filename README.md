@@ -39,7 +39,7 @@ As you can see, the first graph shows the changes in the amount of loss in the t
 
 ![alt text](https://github.com/smohammadi96/ParsBERT_Taghche/blob/main/images/train_val_2.png)
 
-![alt text](https://github.com/smohammadi96/ParsBERT_Taghche/blob/main/images/result.png)
+![alt text](https://github.com/smohammadi96/ParsBERT_Taghche/blob/main/images/result.PNG)
 
 
 
