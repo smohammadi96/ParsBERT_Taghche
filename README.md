@@ -17,8 +17,8 @@
   
  **3. classify rates**
  
-    - rate >= 3 ==> 1
-    - rate < 3 ==> 0
+   - rate >= 3 ==> 1
+   - rate < 3 ==> 0
 
 
 ![alt text](https://github.com/smohammadi96/ParsBERT_Taghche/blob/main/images/chart1.png)
