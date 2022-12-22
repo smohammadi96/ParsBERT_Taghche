@@ -39,6 +39,8 @@ As you can see, the first graph shows the changes in the amount of loss in the t
 
 ![alt text](https://github.com/smohammadi96/ParsBERT_Taghche/blob/main/images/train_val_2.png)
 
+By increasing the learning rate, the loss situation improved in the validation stage, but the accuracy of the model decreased drastically, and by adding augmentation and batch size, the accuracy improved and overfitting decreased.
+
 ![alt text](https://github.com/smohammadi96/ParsBERT_Taghche/blob/main/images/result.png)
 
 
